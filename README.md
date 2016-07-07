@@ -4,7 +4,7 @@ ipv
 ## Installment
 
 ```bash
-$ sudo npm install ipv -g
+$ npm install ipv -g
 ```
 
 ## Quick Start
