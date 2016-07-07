@@ -1,9 +1,9 @@
 {
     "name": "ipv",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "ipv4",
     "bin": {
-        "ipv": "./bin/ipv"
+        "ipv": "./bin/ipv.js"
     },
     "main": "index.js",
     "repository": {
